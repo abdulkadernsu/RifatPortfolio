@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+     font-size: 60px;   
+}
+.Orange{
+    color: rgb(214, 150, 66);
+}
+.color{
+color:rgb(45, 168, 100)
+}
+section{
+    display: flex;
+}
+.HalfWidth{
+    padding-left: 10%;
+    width: 80%;
+}
+.Link-Button{
+    text-decoration: none;
+    color: lightcyan;
+    background-color: lightcoral;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: bolder;
+    background-image: linear-gradient(#ff2240 ,#e90670);
+}
+.bg{
+    background-image: url(411-[Converted].jpg);
+    background-repeat: no-repeat;
+}
